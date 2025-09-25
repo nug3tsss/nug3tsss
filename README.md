@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="donut_ascii_art.gif" alt="donut speen" width="100%" style="border-radius: 15px;"/><br>
+  <img src="TKcmR.gif" alt="donut speen" width="100%" style="border-radius: 15px;"/><br>
 </p>
 
 <p align="center">
