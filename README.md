@@ -2,5 +2,5 @@
 
 <p align = "center">
   <img src="donut_ascii_art.gif" alt="donut speen" /><br>
-  wannabe game dev
+  <b><i>wannabe game dev</b></i>
 </p>
