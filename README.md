@@ -1,1 +1,3 @@
-<img src="donut_ascii_art.gif" alt="Cool Animation" width="100%"/>
+<p align = "center">
+  ![donut gif](donut_ascii_art.gif)
+</p>
