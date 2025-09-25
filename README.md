@@ -1,1 +1,1 @@
-![readme gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F3193-ascii-gifs&psig=AOvVaw3icrgIaXVD_kpqeFUkQbIu&ust=1758899901623000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi66fGa9I8DFQAAAAAdAAAAABBf)
+![readme gif](donut_ascii_art.gif)
