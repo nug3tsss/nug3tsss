@@ -1,3 +1,3 @@
 <p align = "center">
-  ![donut gif](donut_ascii_art.gif)
+  <img src="donut_ascii_art.gif" alt="donut speen" />
 </p>
